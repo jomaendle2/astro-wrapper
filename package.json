@@ -10,10 +10,32 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@analogjs/astro-angular": "^1.9.0",
+    "@angular-devkit/build-angular": "^18.2.8",
+    "@angular/animations": "^18.2.8",
+    "@angular/common": "^18.2.8",
+    "@angular/compiler": "^18.2.8",
+    "@angular/compiler-cli": "^18.2.8",
+    "@angular/core": "^18.2.8",
+    "@angular/language-service": "^18.2.8",
+    "@angular/platform-browser": "^18.2.8",
+    "@angular/platform-browser-dynamic": "^18.2.8",
+    "@angular/platform-server": "^18.2.8",
     "@astrojs/check": "^0.9.4",
+    "@astrojs/react": "^3.6.2",
     "@astrojs/tailwind": "^5.1.2",
+    "@nanostores/angular": "^0.0.4",
+    "@nanostores/react": "^0.8.0",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
     "astro": "^4.16.3",
+    "nanostores": "^0.11.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "rxjs": "^7.8.1",
     "tailwindcss": "^3.4.13",
-    "typescript": "^5.6.3"
+    "tslib": "^2.7.0",
+    "typescript": "5.4.5",
+    "zone.js": "^0.15.0"
   }
 }
