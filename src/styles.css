@@ -1,0 +1,11 @@
+button {
+  @apply text-white py-2 px-4 rounded bg-blue-700;
+
+  &:hover {
+    @apply bg-blue-800;
+  }
+
+  &:active {
+    @apply bg-blue-900;
+  }
+}
